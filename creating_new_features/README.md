@@ -1,5 +1,6 @@
 ## We have a task, in which, at first glance, there is nothing complicated. 
 ### You train any machine learning model......and get ROC-AUC metric around 0.5
+#### And you know that Roc-auc must be around 0.9
 
 | Project name | Libraries used | 
 | :---------------------- |  :---------------------- |
