@@ -4,3 +4,5 @@
 | Project name | Libraries used | 
 | :---------------------- |  :---------------------- |
 | [Data analysis, creating new features](https://github.com/svotyakov/WebScraping_DataPreprocessing/blob/main/creating_new_features/Data_analysis_creating_new_features.ipynb) | *pandas, numpy, matplotlib, seaborn, sklearn(StandardScaler, MDS, DecisionTreeClassifier, PolynomialFeatures, GridSearchCV), itertools, CatBoostClassifier, tqdm* |
+
+[Hyperlink to original solution](https://www.youtube.com/watch?v=aNREIdJ3IuY&list=PLQJ7ptkRY-xbefSg1XN3FA-SdSRFcCQfn&index=1&t=6s)
