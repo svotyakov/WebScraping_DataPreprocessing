@@ -1,9 +1,8 @@
-## We have a task, in which, at first glance, there is nothing complicated. 
-### You train any machine learning model......and get ROC-AUC metric around 0.5
-#### And you know that Roc-auc must be around 0.9 or even more
+## Задача достичь показателя ROC-AUC в 0.90, бинарная классификация. 
+### У меня получилось достичь 0.82, буду признателен за ваши идеи, что еще можно сделать
 
 | Project name | Libraries used | 
 | :---------------------- |  :---------------------- |
-| [Data analysis, creating new features](https://github.com/svotyakov/WebScraping_DataPreprocessing/blob/main/creating_new_features/Data_analysis_creating_new_features.ipynb) | *pandas, numpy, matplotlib, seaborn, sklearn(StandardScaler, MDS, DecisionTreeClassifier, PolynomialFeatures, GridSearchCV), itertools, CatBoostClassifier, tqdm* |
+| [Data analysis telecom, creating new features, ML](https://github.com/svotyakov/WebScraping_DataPreprocessing/blob/main/telecom_analysis/rus/Telecom_classification.ipynb) | *pandas, numpy, matplotlib, seaborn, sklearn(GridSearchCV, TfidfVectorizer, ), itertools, CatBoostClassifier, lightgbm, tqdm* |
 
-[Hyperlink to the original solution](https://www.youtube.com/watch?v=aNREIdJ3IuY&list=PLQJ7ptkRY-xbefSg1XN3FA-SdSRFcCQfn&index=1&t=6s)
+[Hyperlink to the original solution](https://www.youtube.com/watch?v=jOQefsrEvhg&list=PLQJ7ptkRY-xbefSg1XN3FA-SdSRFcCQfn&index=2)
